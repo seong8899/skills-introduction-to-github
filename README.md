@@ -7,6 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2Fskills-introduction-to-github.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2Fskills-introduction-to-github?ref=badge_large)
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
@@ -37,6 +40,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
 **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
 ![profile-readme-example](/images/profile-readme-example.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseong8899%2Fskills-introduction-to-github.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseong8899%2Fskills-introduction-to-github?ref=badge_shield)
 
 ### :keyboard: Activity: Your first branch
 
